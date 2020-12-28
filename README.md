@@ -13,7 +13,7 @@
 ### 🔭 Experience
 
 - __Smilegate__ intern (devcamp)     [20.12 ~ 21.02]
-- __YAPP__ (IT union club)           [2020.02 ~ 06]
+- __YAPP__ (IT union club #16th)           [2020.02 ~ 06]
 - __Smilegate__ Server camp (online) [20.01 ~ 03]
 - Student at __Myongji univiersity__ [2015 ~ ing]
 

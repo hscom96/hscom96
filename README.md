@@ -10,7 +10,7 @@
 
 </br>
 
-### 🔭 Expreience
+### 🔭 Experience
 
 - __Smilegate__ intern (devcamp)     [20.12 ~ 21.02]
 - __YAPP__ (IT union club)           [2020.02 ~ 06]

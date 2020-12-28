@@ -10,8 +10,12 @@
 
 </br>
 
-### 🔭 I’m currently working on ...
-Student at Myongji univiersity (2015 ~ ing)
+### 🔭 Expreience
+
+- Student at Myongji univiersity (2015 ~ ing)
+- Smilegate intern (devcamp) (20.12 ~ ing)
+- 'YAPP' IT union club (2020.02 ~ 06)
+- Smilegate Server camp (online) (20.01 ~ 03)
 
 </br>
 

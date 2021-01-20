@@ -6,8 +6,6 @@
 
 :heavy_check_mark: A person with tenacity and passion </br>
 :heavy_check_mark: Always think of a better way to solve problems.
-
-
 </br>
 
 ### 🔭 Experience
@@ -16,18 +14,15 @@
 - __[YAPP](http://yapp.co.kr/)__ (IT union club 16th)           [2020.02 ~ 06]
 - __[Smilegate](https://www.smilegate.com/ko/main/main.asp)__ Server camp (online) [20.01 ~ 03]
 - Student at __Myongji univiersity__ [15.03 ~ ing]
-
 </br>
 
 - 기술 블로그 : https://lovecode.tistory.com/
 - 알고리즘 저장소 : https://hscom96.github.io/
-
 </br>
 
 ### 🌱 I’m currently learning ...
 - Springboot
 - Algorithm
-
 </br>
 
 ### :e-mail: How to reach me 

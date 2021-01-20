@@ -26,4 +26,6 @@
 </br>
 
 ### :e-mail: How to reach me 
+- 기술 블로그 : https://lovecode.tistory.com/
+- 알고리즘 저장소 : https://hscom96.github.io/
  **hscom96@gmail.com**

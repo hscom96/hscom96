@@ -6,7 +6,7 @@
 
 :heavy_check_mark: A person with tenacity and passion </br>
 :heavy_check_mark: Always think of a better way to solve problems.
-</br>
+</br></br>
 
 ### 🔭 Experience
 

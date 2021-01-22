@@ -10,7 +10,7 @@
 
 ### 🔭 Experience
 
-- __[Smilegate](https://www.smilegate.com/ko/main/main.asp)__ intern (devcamp)     [20.12 ~ 21.02]
+- __[Smilegate](https://www.smilegate.com/ko/main/main.asp)__ internship (devcamp)     [20.12 ~ 21.02]
 - __[YAPP](http://yapp.co.kr/)__ (IT union club 16th)           [2020.02 ~ 06]
 - __[Smilegate](https://www.smilegate.com/ko/main/main.asp)__ Server camp (online) [20.01 ~ 03]
 - Student at __Myongji univiersity__ [15.03 ~ ing]

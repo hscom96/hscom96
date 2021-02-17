@@ -9,7 +9,7 @@
 </br></br>
 
 ### 🔭 Experience
-- [21.03 ~ ] &nbsp; __[Smilegate](https://www.smilegate.com/ko/main/main.asp)__ 
+- [21.03 ~ *] &nbsp; __[Smilegate](https://www.smilegate.com/ko/main/main.asp)__ 
 - [20.12 ~ 21.02] &nbsp; __[Smilegate](https://www.smilegate.com/ko/main/main.asp)__ internship (devcamp)
 - [20.02 ~ 06] &nbsp; __[YAPP](http://yapp.co.kr/)__ (IT union club 16th)
 - [20.01 ~ 03] &nbsp; __[Smilegate](https://www.smilegate.com/ko/main/main.asp)__ Server camp (online)

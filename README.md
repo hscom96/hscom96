@@ -2,10 +2,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/hscom96?label=Follow&style=social)
 ## 👋 Wellcome :exclamation: 👋
 
-### About Me
-
-:heavy_check_mark: A person with tenacity and passion </br>
-:heavy_check_mark: Always think of a better way to solve problems.
 </br>
 
 ### 🌱 I’m currently learning ...

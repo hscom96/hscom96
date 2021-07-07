@@ -2,8 +2,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/hscom96?label=Follow&style=social)
 ## 👋 Wellcome :exclamation: 👋
 
-</br>
-
 ### 🌱 I’m currently learning ...
 - Springboot
 - Algorithm

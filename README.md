@@ -18,14 +18,10 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
 </p>
 
-<br/>
-
-
 <h3 align="left">How to reach me </h3>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hscom96@gmail.com)
 
-<br/>
 <br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hscom96&show_icons=true&locale=en" alt="hscom96" />

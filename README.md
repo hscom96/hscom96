@@ -23,6 +23,7 @@
 
 <h3 align="left">How to reach me </h3>
 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hscom96@gmail.com)
 
 <br/>
 <br/>

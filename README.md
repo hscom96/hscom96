@@ -1,9 +1,7 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=4579C0&center=true&vCenter=true&width=300&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+hyeonsu;%F0%9F%9A%80backend+developer%F0%9F%9A%80" alt="hscom96" /> </p>
 
-<!--방문자수-->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhscom96%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=atom.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<!--팔로워수-->
 ![GitHub followers](https://img.shields.io/github/followers/hscom96?label=Follow&style=social)
 
 <br/>

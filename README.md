@@ -7,12 +7,6 @@
 <!--github 문어그림-->
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
-<h3 align="left">How to reach me </h3>
-
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hscom96@gmail.com)
-
-<br/>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -29,3 +23,8 @@
   <!--react-->
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
 </p>
+
+<h3 align="left">How to reach me </h3>
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hscom96@gmail.com)
+

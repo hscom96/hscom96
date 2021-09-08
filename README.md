@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/hscom96?label=Follow&style=social)
 
 <!--github 문어그림-->
-<img align='right' src='https://user-images.githubusercontent.com/46397442/132505806-3ca3a80c-b4b9-4446-9584-2fddc96aa4f6.png' width='150"'>
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
 
 <h3 align="left">Languages and Tools:</h3>

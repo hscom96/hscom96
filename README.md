@@ -10,7 +10,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/hscom96?label=Follow&style=social)
 
 <!--github 문어그림-->
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+<!-- <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'> -->
+<img align='right' src='https://user-images.githubusercontent.com/46397442/150996114-7af3c250-e77a-4e62-ac38-2f812c5b5e42.gif' width='150"'>
+<!-- ![octocat-anime](https://user-images.githubusercontent.com/46397442/150996114-7af3c250-e77a-4e62-ac38-2f812c5b5e42.gif) -->
 
 
 <h3 align="left">Languages and Tools:</h3>

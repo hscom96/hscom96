@@ -1,6 +1,6 @@
 <!-- 움직이는 소개글 -->
 <!-- 참조 : https://github.com/kyechan99/capsule-render#how-to-use  -->
-![header](https://capsule-render.vercel.app/api?type=waving&customColorList=9&color=auto&height=250&section=header&text=Hi👋,%20%20I'm%20Hyeonsu&fontSize=52&fontAlignY=41&desc=back-end%20developer%20🚀&descAlignY=58&descAlign=63)
+![header](https://capsule-render.vercel.app/api?type=waving&customColorList=9&color=auto&height=250&section=header&text=Hi👋,%20%20I'm%20Hyeonsu&fontSize=47&fontAlignY=39&desc=back-end%20developer%20🚀&descAlignY=55&descAlign=61)
 
 <!-- 움직이는 소개글 -->
 <!-- 

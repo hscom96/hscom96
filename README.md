@@ -23,12 +23,12 @@
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
   <!--mysql-->
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
-  <!--neo4j-->
-  <a href="https://neo4j.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/46397442/125633829-58e5096c-0382-42ff-9f54-a5fefede50d4.png" alt="neo4j" width="50" height="50"/> </a>
-  <!--redis-->
+  <!--kafka-->
+  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/46397442/225343930-b6f8ea0e-a6ca-4a51-8475-6faf5f21bc30.png" alt="kafka" width="50" height="50"/> </a>
+    <!--redis-->
  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> </a>
-  <!--react-->
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
+  <!--neo4j-->
+    <a href="https://neo4j.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/46397442/125633829-58e5096c-0382-42ff-9f54-a5fefede50d4.png" alt="neo4j" width="50" height="50"/> </a>
 </p>
 
 <h3 align="left">How to reach me </h3>

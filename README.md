@@ -34,4 +34,4 @@
 <h3 align="left">How to reach me </h3>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hscom96@gmail.com)
-[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/kim-hyeonsu-765050195/)](https://www.linkedin.com/in/kim-hyeonsu-765050195/)
+<!-- [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/kim-hyeonsu-765050195/)](https://www.linkedin.com/in/kim-hyeonsu-765050195/) -->
